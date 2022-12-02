@@ -51,7 +51,7 @@ Aquí podrás contactar en caso tener alguna pregunta al respecto.
 ![](https://raw.githubusercontent.com/sgcm14/Tienda-Virtual/master/doc/contacto.png)
 > Pantalla de **Contacto**
 
-**Realizado por :** ALVARO GUSTAVO CRUZ SAJAMI (sgcm14)
+Alvaro Gustavo Cruz Sajami 
 
 <img src ="https://github.com/AlvarocDev.png" width="200">
 
